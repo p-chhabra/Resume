@@ -1,0 +1,239 @@
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% Github : https://github.com/xprilion
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Prathmesh Chhabra}}
+\end{tabular*}
+\href{https://github.com/p-chhabra}{\raisebox{-0.05\height}\faGithub\ Github} \ $|$ \ 
+\href{https://www.linkedin.com/in/prathmesh-chhabra-51760719b/}{\raisebox{-0.05\height}\faLinkedin\ Linkedin} \ $|$ \ 
+\href{https://prathmesh-chhabra-portfolio.netlify.com}{\raisebox{-0.05\height}\faGlobe \ Portfolio} \ $|$ \ 
+\href{mailto:p.chhabra2002@gmail.com}{\raisebox{-0.05\height}\faEnvelope \ Email} \ $|$ \ 
+\href{tel:+918219266127}{\raisebox{-0.05\height}\faMobile \ 82.19.266.127} \\
+
+
+%-----------EDUCATION-----------------
+\section{~~Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National Institute of Technology, Hamirpur}{Hamirpur, India}
+      {Bachelor of Technology - Computer Science \& Engineering;  GPA: 9.1/10}{Dec 2020 - present}
+      {\scriptsize \textit{ \footnotesize{\newline{}\textbf{Courses:} Operating Systems, Data Structures, Analysis Of Algorithms, Object Oriented Programming, Computer Arcjitecture, Software Engineering, Computer Networks, DBMS}}}
+
+      \resumeSubheading{Partap World School, Indora}{Himachal Pradesh, India}
+    {School}{2013 - 2020}
+    \resumeItemListStart
+        \resumeItem{Class X}{Grade - 93.2}
+          \resumeItem{Class XII}{Grade - 96.4}
+          \resumeItem{Jee Main}{Percentile - 98.93}
+      \resumeItemListEnd
+    \resumeSubHeadingListEnd
+	    
+\vspace{-5pt}
+
+%-----------SKILLS-----------------
+\section{Skills Summary}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~C++, JavaScript, SQL, HTML, CSS}
+	\resumeSubItem{Frameworks}{~~~~ReactJS, NextJS, ExpressJS, Tailwind, Bootstrap, }
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~Docker, GIT, Github, MariaDB, MongoDB, Latex, Canva, MS Office}
+	\resumeSubItem{Platforms}{~~~~~~~Linux(Ubuntu, Manjaro), Web, Windows}
+	\resumeSubItem{Soft Skills}{~~~~~~~Leadership, Communication, Independent, Writing, Presentations}
+
+  %-----------EXPERIENCE-----------------
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Coordinator - CSEC}{College}
+    {{\color{blue}\href{https://github.com/p-chhabra}{Computer Science Engineers Community}} (Society Coordinator)}{Dec 2021 - present}
+    \resumeItemListStart
+        \resumeItem{Heuristics Programming Contest}
+          {Conducted the monthly programming contest {\color{blue}\href{https://github.com/p-chhabra}{Heuristics}} and designed problems for it.}
+          \resumeItem{Linux Installation Fest}
+          {Organised an event for college freshers for installing various linux distros on their laptops}
+          \resumeItem{Programming meets}{Condcuted programming meets for juniors on various topics including web development, version control, problem solving}
+      \resumeItemListEnd
+
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{0pt}
+\section{Projects}
+\resumeSubHeadingListStart
+%-----------PROJECT - 1-----------------
+\resumeSubheading
+{SemDetail - A semester information website} {\color{blue}\href{https://sem-detail-app.vercel.app/}{Live} | \href{https://github.com/p-chhabra/Semester-Detail-Website/tree/dev}{Github}}
+{Tech Stack - NextJS, CSS, Tailwind, MongoDB Cloud, JSON} {}
+\resumeItemListStart
+        \resumeItemWithoutTitle{}{A web app created using NextJS with static site generation and used mongoDB as database.}
+        \resumeItemWithoutTitle{}{Used pre-rendering with
+        dynamic page based routing and user friendly design. Manually created json file to locally store information regarding all
+        courses of the semester.}  
+\resumeItemListEnd
+
+\vspace{0pt}
+
+%-----------PROJECT - 2-----------------
+\resumeSubheading
+{TravelElite - A travel blog website} {\color{blue}\href{https://github.com/p-chhabra/TravelElite}{Github}}
+{Tech Stack - ReactJS, ExpressJS, CSS, Tailwind, MongodDB Cloud, Google Maps API} {}
+\resumeItemListStart
+        \resumeItemWithoutTitle{}{A Full Stack dynamic web app which allows users to create profile and upload their favorite places to their profile.}
+        \resumeItemWithoutTitle{}{Frontend designed using ReactJS v16 functional components with react router, hooks, user friendly UI, Context API to
+        manage global states. Backend designed using Nodejs and Express with MongoDB to create Restful APIs.}  
+\resumeItemListEnd
+\vspace{0pt}
+
+%-----------PROJECT - 3-----------------
+\resumeSubheading
+{RFID Attendance System} {\color{blue}\href{https://github.com/p-chhabra/RFID-Attendance-system}{Github}}
+{Tech Stack - Arduino IDE, NodeJS, ExpressJS, MongoDB Cloud, ReactJS} {}
+\resumeItemListStart
+        \resumeItemWithoutTitle{}{Developed an attendance tracking system that allows users to register their attendance by scanning RFID cards using an RFID reader interfaced with an Arduino board.}
+        \resumeItemWithoutTitle{}{Used Node.js and the Express framework to create the backend API to store and
+        retrieve attendance data from a MongoDB database, and Used React forfrontend.}  
+\resumeItemListEnd
+\vspace{0pt}
+
+%-----------PROJECT - 4-----------------
+\resumeSubheading
+{Meal Store} {\color{blue}\href{https://mealstore.netlify.app/}{Live} | \href{https://github.com/p-chhabra/Food-Order-App}{Github}}
+{Tech Stack - ReactJS, Firebase, CSS} {}
+\resumeItemListStart
+        \resumeItemWithoutTitle{}{An online food store on which users can add their favorite food items to their cart and place an order.}
+        \resumeItemWithoutTitle{}{Made using
+        ReactJS and Firebase. Used the Redux to manage app wide state and firebase as database to fetch meal items.}
+        
+\resumeItemListEnd
+\vspace{0pt}
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------PLATFORMS-----------------
+\section{Platforms}
+\resumeSubHeadingListStart
+\resumeSubItem{LeetCode}{~~~~~~~~Solved over {\color{blue}\href{https://leetcode.com/van_astrea/}{400}} problems consistently }
+	\resumeSubItem{HackerRank}{~~~~{\color{blue}\href{https://www.hackerrank.com/p_chhabra2002?hr_r=1}{4 star}} Problem Solving rating}
+	\resumeSubItem{Github}{~~~~~~~~~~~~Over {\color{blue}\href{https://www.github.com/p-chhabra}{600 commits}} and 40+ repositories}
+\resumeSubHeadingListEnd
+
+\vspace{0pt}
+%-----------EXTRACURRICULAR-----------------
+\section{Extracurricular}
+\begin{description}[font=$\bullet$]
+\item {Secured state rank - 4 and district rank - 1 in {\color{blue}\href{https://www.linkedin.com/posts/prathmesh-chhabra-51760719b_educare-activity-6758391883443138560-phJb/}{Educare Space Olympiad}} - Nov, 2017}
+\vspace{-5pt}
+\item {Won the Valorant Esports tournament organised by Resurgence NITH - April, 2023 }
+\vspace{-5pt}
+\item {Inter Year Squad Member of football team of NITH.}
+
+\end{description}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% \resumeSubItem{}
+% {(Work in progress) Research oriented, open source, search engine for bringing reverse multimedia search to small \& mid scale enterprises. Tech: Python, NodeJS, Intel OpenVino Toolkit, Selenium, TensorFlow (October '18)}
+% \vspace{8pt}
+% \resumeSubItem{TravelElite - A travel blog website (Google Maps API, REST API, Encryption)}{AI model to resolve city traffic around 50\%
+% faster. Tech: Python, Alibaba Cloud, Raspberry Pi, Arduino, SUMO \& OpenCV. (August '18)}
+% \vspace{8pt}
+% \resumeSubItem{RFID Attendance Systen (Arduino, API, User Interface)}{Images clicked using drones, provided by ISRO were stitched together using distributed public compute nodes, effectively bringing down processing time exponentially. Tech: PHP, C++, Java, Python (March '18)}
+% \vspace{8pt}
+% \resumeSubItem{Drag-n-drop machine learning learning environment (Web Development, Machine Learning)}{Scratch like tool for implementing machine learning pipelines along with built in tutorial for each concept. Tech: Python, JavaScript (September '18)}
+% \vspace{8pt}
+% \resumeSubItem{Search Engine and Social Network(Web Development, Web Crawler, Search)}{Created from scratch a social network and a search engine based on the idea of integrating Facebook and Google. The launched website was among top 1000 websites in India during 2012-2013. Tech: PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)}
