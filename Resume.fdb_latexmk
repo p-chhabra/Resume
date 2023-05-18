@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1684335237 "d:/Resume/Resume.tex" "Resume.pdf" "Resume" 1684335238 0
+["pdflatex"] 1684446772 "d:/Resume/Resume.tex" "Resume.pdf" "Resume" 1684446773 0
   "C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1684333505 82039 32c00b46ec68f3ddea0147d75839907f ""
   "C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1684323423 10472 ed9868b8711ce1be87b18d067fd3a78f ""
   "C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1684323424 11548 8450d70154e122ed8cae267501532277 ""
@@ -21,8 +21,6 @@
   "D:/Extra Tools/MikTex/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/cm/cmsy9.tfm" 1136765053 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
-  "D:/Extra Tools/MikTex/fonts/tfm/public/cm/cmti7.tfm" 1136765053 1492 86331993fe614793f5e7e755835c31c5 ""
-  "D:/Extra Tools/MikTex/fonts/tfm/public/cm/cmti8.tfm" 1136765053 1504 1747189e0441d1c18f3ea56fafc1c480 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651500229 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1651500229 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1651500229 1340 b21002f38a477f345fa9dc96a5613e2b ""
@@ -41,7 +39,6 @@
   "D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1247596666 32442 c975af247b6702f7ca0c299af3616b80 ""
   "D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
-  "D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti8.pfb" 1247596666 35660 fb24af7afbadb71801619f1415838111 ""
   "D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1651500229 204258 aba4eee5a17f42be814f3d784d0cfb5a ""
   "D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651500229 295323 07c90be888af62cddcbea2d451a520d3 ""
   "D:/Extra Tools/MikTex/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -101,10 +98,10 @@
   "D:/Extra Tools/MikTex/tex/latex/tools/verbatim.sty" 1667242266 7392 f19cdc68ae9f1190dbd54eee6d29fb7c ""
   "D:/Extra Tools/MikTex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/Extra Tools/MikTex/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Resume.aux" 1684335238 1235 664039ac0e9efedeedbe5ded373f07df "pdflatex"
-  "Resume.out" 1684335238 602 e680da8a0012f751902e9920bb039c98 "pdflatex"
-  "Resume.tex" 1684335237 10353 bfd38778067cd48bfd64273d90554e7d ""
-  "d:/Resume/Resume.tex" 1684335237 10353 bfd38778067cd48bfd64273d90554e7d ""
+  "Resume.aux" 1684446773 1235 664039ac0e9efedeedbe5ded373f07df "pdflatex"
+  "Resume.out" 1684446773 602 e680da8a0012f751902e9920bb039c98 "pdflatex"
+  "Resume.tex" 1684446771 11210 0d0837a509cedb2a66b2278f82adb0cc ""
+  "d:/Resume/Resume.tex" 1684446771 11210 0d0837a509cedb2a66b2278f82adb0cc ""
   (generated)
   "Resume.aux"
   "Resume.log"

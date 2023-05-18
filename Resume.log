@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.17)  17 MAY 2023 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.17)  19 MAY 2023 03:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,9 +284,9 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on in
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 91.
  (D:\Extra Tools\MikTex\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 106.
+(Font)              <9> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 106.
+(Font)              <6> on input line 107.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -300,17 +300,17 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: E680DA8A0012F751902E9920BB039C98;602.
  ) 
 Here is how much of TeX's memory you used:
- 13188 strings out of 476360
- 224874 string characters out of 5798740
- 1887993 words of memory out of 5000000
- 33444 multiletter control sequences out of 15000+600000
- 519180 words of font info for 57 fonts, out of 8000000 for 9000
+ 13184 strings out of 476360
+ 224837 string characters out of 5798740
+ 1891993 words of memory out of 5000000
+ 33442 multiletter control sequences out of 15000+600000
+ 518479 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,307b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on Resume.pdf (1 page, 219832 bytes).
+ 75i,11n,76p,394b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Resume.pdf (1 page, 215932 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 133 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
