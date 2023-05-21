@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.17)  19 MAY 2023 03:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.17)  21 MAY 2023 13:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -281,12 +281,14 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 87.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 89.
  (D:\Extra Tools\MikTex\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 91.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 90.
+ (D:\Extra Tools\MikTex\tex/latex/fontawesome5\ufontawesomefree0.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 92.
  (D:\Extra Tools\MikTex\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 107.
+(Font)              <9> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 107.
+(Font)              <6> on input line 108.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -295,22 +297,22 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free1.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free2.enc}] (Resume.aux)
+{C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free1.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free0.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free2.enc}] (Resume.aux)
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: E680DA8A0012F751902E9920BB039C98;602.
  ) 
 Here is how much of TeX's memory you used:
- 13184 strings out of 476360
- 224837 string characters out of 5798740
+ 13203 strings out of 476360
+ 225362 string characters out of 5798740
  1891993 words of memory out of 5000000
- 33442 multiletter control sequences out of 15000+600000
- 518479 words of font info for 55 fonts, out of 8000000 for 9000
+ 33456 multiletter control sequences out of 15000+600000
+ 518787 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,394b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume.pdf (1 page, 215932 bytes).
+Output written on Resume.pdf (1 page, 217214 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
