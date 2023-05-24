@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1684655485 "d:/Resume/Resume.tex" "Resume.pdf" "Resume" 1684655486 0
+["pdflatex"] 1684938089 "d:/Resume/Resume.tex" "Resume.pdf" "Resume" 1684938090 0
   "C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1684333505 82039 32c00b46ec68f3ddea0147d75839907f ""
   "C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1684323423 10472 ed9868b8711ce1be87b18d067fd3a78f ""
   "C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1684323424 11548 8450d70154e122ed8cae267501532277 ""
@@ -7,7 +7,6 @@
   "D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
   "D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1651500229 3083 a707712f77b073b3833e4b1334a30e99 ""
   "D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1651500229 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
-  "D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1651500229 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "D:/Extra Tools/MikTex/fonts/tfm/jknappen/ec/tcrm0900.tfm" 993062508 1444 b1efc6b76338296f8076c1701e4660f3 ""
   "D:/Extra Tools/MikTex/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -25,7 +24,6 @@
   "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651500229 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5free0solid.tfm" 1651500229 1328 8843c76048ec1e1c4b2d1007558b8833 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1651500229 1316 1c2ee668ea88be9bd4f39690662cc344 ""
-  "D:/Extra Tools/MikTex/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1651500229 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/latex-fonts/lasy10.tfm" 1136765053 520 82a3d37183f34b6eb363a161dfc002c2 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/latex-fonts/lasy5.tfm" 1136765053 520 d082ac03a1087bc1ec2a06e24a9f68c0 ""
   "D:/Extra Tools/MikTex/fonts/tfm/public/latex-fonts/lasy6.tfm" 1136765053 520 4889cce2180234b97cad636b6039c722 ""
@@ -73,7 +71,6 @@
   "D:/Extra Tools/MikTex/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1651500229 1206 b35c804e364d46e802702be118632c48 ""
   "D:/Extra Tools/MikTex/tex/latex/fontawesome5/ufontawesomefree0.fd" 1651500229 980 f00df3fe21ca0934b441dacef142037f ""
   "D:/Extra Tools/MikTex/tex/latex/fontawesome5/ufontawesomefree1.fd" 1651500229 980 1b42613a5245ed252c04030af746d737 ""
-  "D:/Extra Tools/MikTex/tex/latex/fontawesome5/ufontawesomefree2.fd" 1651500229 980 38ce61da47d1ba16e56a2e312b56a515 ""
   "D:/Extra Tools/MikTex/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "D:/Extra Tools/MikTex/tex/latex/graphics-def/pdftex.def" 1663918690 19448 1e988b341dda20961a6b931bcde55519 ""
   "D:/Extra Tools/MikTex/tex/latex/graphics/color.sty" 1665067579 7233 e46ce9241d2b2ca2a78155475fdd557a ""
@@ -101,10 +98,10 @@
   "D:/Extra Tools/MikTex/tex/latex/tools/verbatim.sty" 1667242266 7392 f19cdc68ae9f1190dbd54eee6d29fb7c ""
   "D:/Extra Tools/MikTex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/Extra Tools/MikTex/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Resume.aux" 1684655486 1235 664039ac0e9efedeedbe5ded373f07df "pdflatex"
-  "Resume.out" 1684655486 602 e680da8a0012f751902e9920bb039c98 "pdflatex"
-  "Resume.tex" 1684655485 11302 3368b0f09d086796f0b1167564cc2441 ""
-  "d:/Resume/Resume.tex" 1684655485 11302 3368b0f09d086796f0b1167564cc2441 ""
+  "Resume.aux" 1684938090 1235 664039ac0e9efedeedbe5ded373f07df "pdflatex"
+  "Resume.out" 1684938090 602 e680da8a0012f751902e9920bb039c98 "pdflatex"
+  "Resume.tex" 1684938088 11218 6f8528af4343f0a30f3d292a9857348e ""
+  "d:/Resume/Resume.tex" 1684938088 11218 6f8528af4343f0a30f3d292a9857348e ""
   (generated)
   "Resume.aux"
   "Resume.log"
