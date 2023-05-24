@@ -248,11 +248,6 @@ INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT D:\Extra Tools\MikTex\fonts\tfm\public\fontawesome5\fa5free0solid.tfm
-INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT D:\Extra Tools\MikTex\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT D:\Extra Tools\MikTex\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
 INPUT D:\Extra Tools\MikTex\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT D:\Extra Tools\MikTex\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT D:\Extra Tools\MikTex\fonts\tfm\jknappen\ec\tcrm1000.tfm
@@ -272,7 +267,6 @@ INPUT C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.ma
 INPUT D:\Extra Tools\MikTex\fonts\enc\dvips\fontawesome5\fa5brands0.enc
 INPUT D:\Extra Tools\MikTex\fonts\enc\dvips\fontawesome5\fa5free1.enc
 INPUT D:\Extra Tools\MikTex\fonts\enc\dvips\fontawesome5\fa5free0.enc
-INPUT D:\Extra Tools\MikTex\fonts\enc\dvips\fontawesome5\fa5free2.enc
 INPUT Resume.aux
 INPUT .\Resume.out
 INPUT .\Resume.out
