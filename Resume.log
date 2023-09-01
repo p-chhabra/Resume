@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.17)  22 AUG 2023 07:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.17)  1 SEP 2023 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -297,7 +297,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 {C:/Users/Prathmesh Chhabra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free1.enc}{D:/Extra Tools/MikTex/fonts/enc/dvips/fontawesome5/fa5free0.enc}] (Resume.aux)
 Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 3B18A3D108D02168B1C4C132B309B45C;602.
+(rerunfilecheck)             Checksum: 8E78AF957B827039E402C070562A1D4E;640.
  ) 
 Here is how much of TeX's memory you used:
  13184 strings out of 476360
@@ -308,9 +308,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,307b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Prathmesh Chhabra\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><D:/Extra Tools/MikTex/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/Extra Tools/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Resume.pdf (1 page, 194480 bytes).
+Output written on Resume.pdf (1 page, 196123 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
